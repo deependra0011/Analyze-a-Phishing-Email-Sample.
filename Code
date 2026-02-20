@@ -1,0 +1,7 @@
+echo "Starting Network Scan..."
+echo "Scanning 192.168.1.0/24"
+
+nmap -sS 192.168.1.0/24 -oN scan.txt -oH scan.html
+
+echo "Scan Completed!"
+echo "Results saved in scan.txt and scan.html"
