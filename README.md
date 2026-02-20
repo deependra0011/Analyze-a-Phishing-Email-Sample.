@@ -1,15 +1,34 @@
-# 🔍 Network Port Scanner using Nmap
+# Phishing Email Analysis Project
 
-## 📌 Objective
-To scan a local network and identify open ports and services running on devices.
+# Objective
+To identify phishing characteristics in a suspicious email sample.
 
-# 🛠️ Tools Used
-- Nmap
-- Wireshark (Optional)
-  
-# 🌐 Network Range
-Example: 192.168.1.0/24
+# Tools Used
+- Email client / saved email file
+- Online Header Analyzer (e.g., MXToolbox)
 
-# ⚙️ Command Used
-```bash
-nmap -sS 192.168.1.0/24
+# Project Structure
+- report/ → Final analysis report
+- samples/ → Phishing email sample
+- screenshots/ → Evidence screenshots
+- tools/ → Header analysis notes
+
+# Steps Performed
+1. Collected a phishing email sample
+2. Checked sender email for spoofing
+3. Analyzed email headers
+4. Identified suspicious links
+5. Found urgent/threatening language
+6. Checked for URL mismatch
+7. Identified grammar mistakes
+
+#  Phishing Indicators Found
+- Fake sender email
+- Suspicious links
+- Urgent language
+- Header mismatch
+- Spelling errors
+
+# Outcome
+Gained knowledge of phishing detection and email threat analysis.
+
