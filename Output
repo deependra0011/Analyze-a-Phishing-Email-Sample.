@@ -1,0 +1,4 @@
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+22/tcp   open  ssh
