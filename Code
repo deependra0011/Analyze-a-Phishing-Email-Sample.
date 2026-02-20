@@ -1,7 +1,12 @@
-echo "Starting Network Scan..."
-echo "Scanning 192.168.1.0/24"
+Subject: Urgent! Your Account Will Be Suspended
 
-nmap -sS 192.168.1.0/24 -oN scan.txt -oH scan.html
+Dear User,
 
-echo "Scan Completed!"
-echo "Results saved in scan.txt and scan.html"
+We detected unusual activity in your account.
+Click here immediately to verify your account:
+http://fake-bank-login.com
+
+Failure to act will result in account suspension.
+
+Regards,
+Bank Team
