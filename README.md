@@ -1,4 +1,4 @@
-<img width="1518" height="857" alt="Screenshot 2026-02-20 221600" src="https://github.com/user-attachments/assets/6fbed664-d4b0-4b0d-99ad-f9d51ab16755" />
+
 # Phishing Email Analysis Project
 
 # Objective
@@ -33,3 +33,4 @@ To identify phishing characteristics in a suspicious email sample.
 # Outcome
 Gained knowledge of phishing detection and email threat analysis.
 
+<img width="1518" height="857" alt="Screenshot 2026-02-20 221600" src="https://github.com/user-attachments/assets/6fbed664-d4b0-4b0d-99ad-f9d51ab16755" />
